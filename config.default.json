@@ -2,5 +2,7 @@
     "listenServers": [
         "SERVER ID HERE"  
     ],
-    "token": "YOUR DISCORD TOKEN"
+    "token": "YOUR DISCORD TOKEN",
+    "accountName": "STEAM USERNAME",
+    "password": "STEAM PASSWORD"
 }
