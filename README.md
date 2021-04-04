@@ -1,5 +1,6 @@
 # keyGrabber
 A self-bot that grab any steam keys dropped on a discord channel and activate it automatically onto your account.
+
 **WARNING:** This is against Discord's ToS.
 
 ## Install
