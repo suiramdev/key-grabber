@@ -1,8 +1,12 @@
 {
     "listenServers": [
-        "SERVER ID HERE"  
+        "SERVER ID HERE"
     ],
     "token": "YOUR DISCORD TOKEN",
-    "accountName": "STEAM USERNAME",
-    "password": "STEAM PASSWORD"
+    "accounts": [
+        {
+            "username": "STEAM USERNAME",
+            "password": "STEAM PASSWORD"
+        }
+    ]
 }
